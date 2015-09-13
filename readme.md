@@ -4,7 +4,7 @@
  In general, within one row (period) the elements are metals on the lefthand side, and non-metals on the righthand side.
  </p>
  <p>
- Periodic Table is a single page applicaion (SPA) that contains the periodic table with details information about all elements. 
+ Periodic Table is a single page applicaion (SPA) that contains the periodic table with details information about all chemical elements. 
  Hopeful the students find this interesting.
  <img class="emoji" title=":smiley:" alt=":smiley:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f603.png" height="20" width="20" align="absmiddle">
  </p>
