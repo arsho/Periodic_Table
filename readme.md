@@ -8,17 +8,17 @@
  Hopeful the students find this interesting.
  <img class="emoji" title=":smiley:" alt=":smiley:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f603.png" height="20" width="20" align="absmiddle">
  </p>
+ <p>
+<h1>Periodic Table Demo: <a href="http://arsho.github.io/periodic_table/">http://arsho.github.io/periodic_table/</a></h1>
+<br/>
+</p>
+
 <hr>
 ![alt Periodic Table Demo](http://arsho.github.io/periodic_table/screenshot/small.png)
 <hr>
 <hr>
 ![alt Periodic Table Popup Demo](http://arsho.github.io/periodic_table/screenshot/popup.png)
 <hr>
-<p>
-Periodic Table Demo: <a href="http://arsho.github.io/periodic_table/">http://arsho.github.io/periodic_table/</a>
-<br/>
-
-</p>
 
 
 <h1>
